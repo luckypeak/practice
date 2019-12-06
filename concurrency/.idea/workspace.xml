@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d05ce65a-90a6-41bb-9f68-4f330445fa0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../action/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../action/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../action/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../action/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../action/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../action/action.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../action/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../action/src/main/java/com/loader/ClassLoaderTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lk/thread/InTurnPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lk/thread/ProductAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/dictionaries/liruifeng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/ArrangeCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/CanPartitionKSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/DeleteDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/DistanceK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/FindDuplicateFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/FindLongestChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/FindMedianSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/FindSecondMinimumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/InvertTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/IsPowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/IsValidBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LongestUnivaluePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LongestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/MaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/MinCostClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/MinDiffInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/NextLargerNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/PermuteUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/ReverseInterger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/ReverseKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/SearchSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/SortArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/TopKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/TrapRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/TreeLevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/common/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/common/TreeNode.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lk/thread/ProductAndConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lk/thread/InTurnPrint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2652">
+              <caret line="143" column="6" selection-start-line="143" selection-start-column="6" selection-end-line="143" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4082">
+              <caret line="190" column="16" selection-start-line="190" selection-start-column="16" selection-end-line="190" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/lk/thread/ProductAndConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lk/thread/InTurnPrint.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556548389650" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.InTurnPrint">
+    <configuration name="InTurnPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lk.thread.InTurnPrint" />
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lk.thread.ProductAndConsumer" />
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InTurnPrint" />
+        <item itemvalue="Application.ProductAndConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d05ce65a-90a6-41bb-9f68-4f330445fa0c" name="Default Changelist" comment="" />
+      <created>1554133387320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554133387320</updated>
+      <workItem from="1554133388695" duration="4148000" />
+      <workItem from="1556977332325" duration="597000" />
+      <workItem from="1557656796734" duration="524000" />
+      <workItem from="1559926881703" duration="475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5744000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3429395" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26849896" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32904148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lk/thread/ProductAndConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="143" column="6" selection-start-line="143" selection-start-column="6" selection-end-line="143" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4082">
+          <caret line="190" column="16" selection-start-line="190" selection-start-column="16" selection-end-line="190" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lk/thread/InTurnPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
